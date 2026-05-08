@@ -22,7 +22,7 @@ A Member may resign their membership by announcement in a designated forum. If n
 
 ### Section 2.3: Termination
 
-Membership may be terminated following the finding of a breach of the CoC as determined by  an *ad hoc* committee of three randomly-selected Members formed for evaluation of the breach and its adherence to the core values outlined in Section 1.
+Membership may be terminated following the finding of a breach of the CoC as determined by an *ad hoc* committee of three randomly-selected Members formed for evaluation of the breach and its adherence to the core values outlined in Section 1.
 
 ## Section 3: Board of Directors
 
