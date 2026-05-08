@@ -6,7 +6,7 @@ The name of this organization shall be MapRVA.
 
 The objectives of MapRVA are to advocate for the development, sharing, visualization, and cartography of open data that lends context to the built and natural environments of the greater metropolitan area of Richmond, Virginia.
 
-MapRVA has thrived on a very loose organizational structure. There are no elected positions, no dues, and no legal status. Instead the organization reaches decisions through discussion, allowing evolution based on the interests and initiatives members (defined in Section 2.1).
+MapRVA has thrived on a very loose organizational structure. There are no elected positions, no dues, and no legal status. Instead the organization reaches decisions through discussion, allowing evolution based on the interests and initiatives of members (defined in Section 2.1).
 
 MapRVA wishes to maintain an informal and welcoming atmosphere. Our core values include openness and inclusion, encouraging curiosity, good faith communication, mutual support and respect, honesty, independent agency, and the drive to help each other grow and succeed. Initiatives should be not just focused on cartography, but on any distillation of the world around us into something that tells a story or reveals an otherwise unseen truth. Meetings and communications should remain open to anyone, and MapRVA’s mission should be defined by passion projects rather than board members.
 
